@@ -1,0 +1,67 @@
+msgctxt "#32000"
+msgid "General Settings"
+msgstr ""
+
+msgctxt "#32001"
+msgid "Primary Function"
+msgstr ""
+
+msgctxt "#32002"
+msgid "Produce a list of 'next episodes' for each TV series"
+msgstr ""
+
+msgctxt "#32003"
+msgid "Create and launch randomised playlist"
+msgstr ""
+
+msgctxt "#32004"
+msgid "Let me choose on launch"
+msgstr ""
+
+msgctxt "#32005"
+msgid "Use Smart Playlist to Filter Shows"
+msgstr ""
+
+msgctxt "#32006"
+msgid "Playlist Selection Method"
+msgstr ""
+
+msgctxt "#32007"
+msgid "Let me choose on launch"
+msgstr ""
+
+msgctxt "#32008"
+msgid "Choose a default Playlist"
+msgstr ""
+
+msgctxt "#32009"
+msgid "Select default playlist"
+msgstr ""
+
+msgctxt "#32010"
+msgid "Some shows are fine to watch out of order"
+msgstr ""
+
+msgctxt "#32011"
+msgid "Select random-order shows"
+msgstr ""
+
+msgctxt "#32012"
+msgid "Only populate with selected TV Shows"
+msgstr ""
+
+msgctxt "#32013"
+msgid "Choose shows by ..."
+msgstr ""
+
+msgctxt "#32014"
+msgid "Manual Selection"
+msgstr ""
+
+msgctxt "#32015"
+msgid "Smart Playlist"
+msgstr ""
+
+msgctxt "#32016"
+msgid "Click here to select TV Shows"
+msgstr ""
